@@ -1,3 +1,3 @@
 # ExcelR-Assignments
 
-List of all the assignments completed in the Data Science Certification Course.
+List of all the assignments completed in the ExcelR Data Science Certification Course.
